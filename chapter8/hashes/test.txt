@@ -1,0 +1,4 @@
+A hash function takes a set of data and reduces it to a smaller fixed size. Hashes are
+frequently used in programming for everything from looking up data to easily detect‐
+ing changes. Hash functions in Go are broken into two categories: cryptographic and
+non-cryptographic.
